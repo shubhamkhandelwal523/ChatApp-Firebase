@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCE51-2CLWz7urX7FHuNTAeKx3qV77PLeU',
+    apiKey: '',
     appId: '1:71286289531:android:e9c803b7226f659a29dede',
     messagingSenderId: '71286289531',
     projectId: 'chatapp-de5b6',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCDBGOok5UD61iluRKrQmhsXbSWsE7x16U',
+    apiKey: '',
     appId: '1:71286289531:ios:8db7bcfede1370f629dede',
     messagingSenderId: '71286289531',
     projectId: 'chatapp-de5b6',
